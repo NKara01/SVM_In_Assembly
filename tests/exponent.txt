@@ -1,0 +1,5 @@
+# test exponent parsing
+3 2
+-1 -1.0e-3 2.5E+0 # negative class
+1 1.0e-3 -2.5e0
+-1 -2e-3 3.0e0
